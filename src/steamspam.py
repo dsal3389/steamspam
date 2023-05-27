@@ -106,8 +106,6 @@ def main() -> None:
     steamprofile.spam()
 
 
-
-
 if __name__ == '__main__':
     main()
 
